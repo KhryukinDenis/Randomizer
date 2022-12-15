@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Randomizer</string>
+    <string name="title_activity_navigation">Navigation_activity</string>
+    <string name="title_activity_generatornumber">GeneratornumberActivity</string>
+    <string name="title_activity_number_generator">NumberGeneratorActivity</string>
+    <string name="title_activity_selection">SelectionActivity</string>
+    <string name="title_activity_cube">CubeActivity</string>
+    <string name="title_activity_coin">CoinActivity</string>
+</resources>
